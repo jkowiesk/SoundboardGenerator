@@ -1,0 +1,17 @@
+.titleImg {
+  margin: 2% auto 0;
+  max-width: min(90%, 500px);
+  height: auto;
+}
+
+.toolBar {
+  background: #da0037;
+}
+
+.iconBtn {
+  font-size: 300%;
+}
+
+.infoIconBtn {
+  float: right;
+}

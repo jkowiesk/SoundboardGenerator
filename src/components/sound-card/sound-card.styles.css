@@ -1,0 +1,31 @@
+.card-container {
+  display: flex;
+  flex-direction: column;
+  border: 5px solid #171717;
+  border-radius: 5px;
+  text-align: center;
+  cursor: pointer;
+  -moz-osx-font-smoothing: grayscale;
+  backface-visibility: hidden;
+  transform: translateZ(0);
+  transition: transform 0.25s ease-out;
+  background-color: transparent;
+  height: fit-content;
+  width: 100%;
+}
+
+.card-container h1 {
+  font-family: "PT Serif", serif;
+  font-size: 0.8rem;
+  color: #da0037;
+  margin: 0.2rem 0;
+}
+
+.card-container img {
+  margin: auto;
+  width: 4rem;
+}
+
+.card-container:hover {
+  transform: scale(1.05);
+}

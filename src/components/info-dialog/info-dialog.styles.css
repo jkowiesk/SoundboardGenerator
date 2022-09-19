@@ -1,0 +1,17 @@
+@font-face {
+  font-family: "DancingSpirit";
+  src: url(/src/fonts/DancingScript-Regular.ttf);
+}
+
+@font-face {
+  font-family: "PT Serif";
+  src: url(/src/fonts/PTSerif-Regular.ttf);
+}
+
+.grid {
+  text-align: center;
+}
+
+.img {
+  height: 100%;
+}

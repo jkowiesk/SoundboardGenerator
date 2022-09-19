@@ -1,0 +1,22 @@
+.textBox {
+  padding: 5% 26%;
+  height: auto;
+}
+
+.textBox input {
+  height: 35px;
+  padding: 0px 14px;
+}
+
+.textBox label {
+  height: 36px;
+  top: -30%;
+}
+
+.textBox label[data-shrink="true"] {
+  top: 0;
+}
+
+.textField {
+  margin: 0;
+}

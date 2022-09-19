@@ -1,0 +1,9 @@
+.card-list {
+  width: 90vw;
+  margin-inline: auto;
+  margin-bottom: 16px;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, 100px);
+  place-content: space-between;
+  gap: 32px 16px;
+}

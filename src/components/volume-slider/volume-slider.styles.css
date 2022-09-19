@@ -1,0 +1,9 @@
+.slider {
+  padding: 18px;
+}
+
+@media (min-width: 550px) {
+  .slider {
+    padding: 0;
+  }
+}
