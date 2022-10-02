@@ -3,7 +3,6 @@ import SoundList from "./components/sound-list/sound-list.component";
 import TextBox from "./components/text-box/text-box.compontent";
 import Title from "./components/title/title.component";
 import HelpDialog from "./components/help-dialog/help-dialog.component";
-import InfoDialog from "./components/info-dialog/info-dialog.component";
 import { registerWebPlugin } from "@capacitor/core";
 import { FileSharer } from "@byteowls/capacitor-filesharer";
 
@@ -48,7 +47,6 @@ export default function App() {
       />
       <footer>&copy; Jakub Kowieski</footer>
       <HelpDialog open={isHelpOpen} onClose={() => setIsHelpOpen(false)} />
-      <InfoDialog open={isInfoOpen} onClose={() => setIsInfoOpen(false)} />
     </div>
   );
 }

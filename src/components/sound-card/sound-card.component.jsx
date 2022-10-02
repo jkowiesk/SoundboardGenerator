@@ -67,10 +67,7 @@ const SoundCard = (props) => {
       }}
       style={isPlaying ? isPlayingStyle : null}
     >
-      <img
-        src={isPlaying ? "./images/suhy_move.gif" : "./images/suhy.png"}
-        alt="suhy"
-      />
+      <img src="./images/sound.png" alt="img" />
       <div>
         <h1>{props.name}</h1>
         <IconButton

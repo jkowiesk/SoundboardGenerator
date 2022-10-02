@@ -1,1 +1,1 @@
-{ "appId": "io.ionic.soundboard", "appName": "Windows", "bundledWebRuntime": false, "npmClient": "npm", "webDir": "build", "cordova": {}, "launchShowDuration": 0 }
+{ "appId": "io.ionic.soundboard", "appName": "Windows XP", "bundledWebRuntime": false, "npmClient": "npm", "webDir": "build", "cordova": {}, "launchShowDuration": 0 }

@@ -1,1 +1,1 @@
-export const projectName = "Windows";
+export const projectName = "Windows XP";
