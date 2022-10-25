@@ -42,7 +42,7 @@ Customizable soundboard built with react, with very user friendly and simple to 
 - android studio
 - bash
 
-### Installation
+### Installation and usage
 
 2. Clone the repo
    ```sh
