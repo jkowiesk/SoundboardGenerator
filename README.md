@@ -44,23 +44,23 @@ Customizable soundboard built with react, with very user friendly and simple to 
 
 ### Installation and usage
 
-2. Clone the repo
+1. Clone the repo
    ```sh
    git clone https://github.com/jkowiesk/SoundboardGenerator.git
    ```
-3. Install NPM packages
+2. Install NPM packages
    ```sh
    npm install
    ```
-4. Copy your sounds to _/public/sounds_ folder.
-5. Overwrite _/public/images/sound.png_ with PNG picture, which be displayed on sound buttons.
-6. Run bash script to initialize app
-7. ```sh
+3. Copy your sounds to _/public/sounds_ folder.
+4. Overwrite _/public/images/sound.png_ with PNG picture, which be displayed on sound buttons.
+5. Run bash script to initialize app
+6. ```sh
     bash androidBuild.sh
    ```
    When everything finishes android studio should open.
-8. In android studio, wait for all things to load up. Then make project by clicking **Build>Make Project**.
-9. To generate APK file you can choose which option you prefer e.g. **Build>Build Bundle(s) / APK(s)>Build APK(s)**
+7. In android studio, wait for all things to load up. Then make project by clicking **Build>Make Project**.
+8. To generate APK file you can choose which option you prefer e.g. **Build>Build Bundle(s) / APK(s)>Build APK(s)**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
